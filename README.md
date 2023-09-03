@@ -2,8 +2,5 @@
 - 👀 I’m interested in Data scinece 
 - 🌱 I’m currently learning machine learning
 - 📫 share something new to learn more...
+  my projects is on data preparation and retriving of data to find some useful insights .
 
-<!---
-nagpalyash007/nagpalyash007 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
